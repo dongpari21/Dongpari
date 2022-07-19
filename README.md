@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongpal&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Just%20Dongha&descAlignY=52&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongpal&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Just%20Dongha&descAlignY=60&descAlign=65)
 
 
 <img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
