@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
+<img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
+<img id="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
 
 <!--
 **Dongpari/Dongpari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
