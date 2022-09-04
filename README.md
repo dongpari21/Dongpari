@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongpal&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Just%20Dongha&descAlignY=60&descAlign=65)
 
 
-<img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
-<img id="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
-<img id="node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=E34F26&logo=Node.js&logoColor=FFFFFF&label=">
+<img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=000000&logo=Python&logoColor=FFFFFF&label="/>
+<img id="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=FFFFFF&label="/>
+<img id="node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=000000&logo=Node.js&logoColor=FFFFFF&label=">
 
 <!--
 **Dongpari/Dongpari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
