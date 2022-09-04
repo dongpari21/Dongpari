@@ -4,7 +4,7 @@
 
 <img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
 <img id="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
-<img id="node.js" src="https://img.shields.io/badge/node.js-339933style=for-the-badge&logo=node.js&logoColor=white">
+<img id="node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=E34F26&logo=Node.js&logoColor=FFFFFF&label=">
 
 <!--
 **Dongpari/Dongpari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
