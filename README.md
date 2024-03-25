@@ -5,7 +5,6 @@
 <img id="python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=000000&logo=Python&logoColor=FFFFFF&label="/>
 <img id="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=FFFFFF&label="/>
 <img id="javascript" src="https://img.shields.io/static/v1?style=for-the-badge&message=Javascript&color=000000&logo=Javascript&logoColor=FFFFFF&label=">
-<img id="node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=000000&logo=Node.js&logoColor=FFFFFF&label=">
 
 
 <!--
